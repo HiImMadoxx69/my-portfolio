@@ -3,7 +3,7 @@
 // example, to import the interface below do:
 //
 // import { User } from 'path/to/interfaces';
-
+//Happy new year
 export type User = {
   id: number
   name: string
